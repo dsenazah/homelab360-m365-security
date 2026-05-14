@@ -49,8 +49,8 @@ I am a Technology Specialist with 3+ years of hands-on Microsoft 365 experience 
 | # | Phase | Focus Area | Status |
 |---|---|---|---|
 | 0 | [Tenant Foundations](./Phase-0/README.md) | Domain · Email auth · Users · Groups · Audit | ✅ **Complete** |
-| 1 | [Entra ID & Identity](./Phase-1/README.md) | Conditional Access · PIM · Passwordless · ID Protection | 🔄 **In Progress** |
-| 2 | [Intune & Endpoints](./Phase-2/README.md) | MDM · MAM · Autopilot · Compliance policies · ASR | ⬜ Upcoming |
+| 1 | [Entra ID & Identity](./Phase-1/README.md) | Conditional Access · PIM · Passwordless · ID Protection | ✅ **Complete** |
+| 2 | [Intune & Endpoints](./Phase-2/README.md) | MDM · MAM · Autopilot · Compliance policies · ASR | 🔄 **In Progress**|
 | 3 | [Defender XDR](./Phase-3/README.md) | MDE · MDO P2 · MDI · MDCA · Attack simulation | ⬜ Upcoming |
 | 3b | [Microsoft Sentinel](./Phase-3b/README.md) | SIEM · KQL detection rules · SOAR playbooks | ⬜ Upcoming |
 | 4 | [Microsoft Purview](./Phase-4/README.md) | DLP · Sensitivity labels · Retention · Insider Risk | ⬜ Upcoming |
